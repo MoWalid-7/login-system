@@ -1,4 +1,4 @@
-<h2>Welcom, {{ $tempUser->name }}</h2>
+<h2>Hi, {{ $tempUser->name }}</h2>
 
 <p>
 اضغط على الرابط التالي لتفعيل حسابك:

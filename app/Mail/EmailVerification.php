@@ -31,7 +31,7 @@ class EmailVerification extends Mailable
     {
         return new Envelope(
             subject: 'Email Verification',
-            from:'admin@ecommerce.com'
+            
         );
     }
 
